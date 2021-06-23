@@ -1,0 +1,13 @@
+.country_contour {
+  fill: none;
+  stroke: black;
+  stroke-linejoin: round;
+  stroke-width: 3;
+}
+
+.state_label {
+  fill: rgb(0, 0, 0);
+  font-size: 20px;
+  font-weight: 300;
+  text-anchor: middle;
+}
